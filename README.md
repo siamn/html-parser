@@ -16,3 +16,6 @@ To run the C program, you can use the command:
 ### Haskell
 To compile and run the Haskell program:
   * `runhaskell htmlParser.hs`
+## License
+This project does not contain a license and thus default copyright laws apply. 
+You may not reproduce, distribute, or create derivative works from this work.
